@@ -1,0 +1,29 @@
+在一个空房间里有N盏灯，
+从1到N。第一个人应该打开所有的灯，第二个应该按数字2倍的开关（这些灯会关断）。
+第三个人应该按下那些数量是倍数的开关。（灯会关上，关灯就打开）等等。那里有K人。
+结果，最后哪个灯会亮起来？ 
+
+这里有几个测试用例。 每一种情况都包括n和K.（k<＝n<＝1000）
+当灯亮时输出所有的数字。在两个不同的数字之间有一个空格，在两个不同的情况之间有一条空行。
+
+int main(int argc, char** argv) 
+{
+	int n,k,first=1;
+	bool a[1000];
+	while(cin>>n>>k)
+	{
+		if(first) first=0;
+		else cout<<endl;
+		for(int i=0;i<=n;i++) a[i]=1;
+		for(int j=2;j<=k;j++) 
+		{
+			for(int i=0;i<=n;i=i+j)
+			a[i]=!a[i];
+		}
+		cout<<1;
+		for(int i=2;i<=n;i++)
+		if(a[i])cout<<' '<<i;
+		cout<<endl;
+	}
+	return 0;
+}

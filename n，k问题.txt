@@ -1,0 +1,160 @@
+1001 数组中和等于K的数对
+基准时间限制：1 秒 空间限制：131072 KB 分值: 5 难度：1级算法题
+ 收藏
+ 取消关注
+给出一个整数K和一个无序数组A，A的元素为N个互不相同的整数，找出数组A中所有和等于K的数对。例如K = 8，数组A：{-1,6,5,3,4,2,9,0,8}，所有和等于8的数对包括(-1,9)，(0,8)，(2,6)，(3,5)。
+
+Input
+第1行：用空格隔开的2个数，K?N，N为A数组的长度。(2?<=?N?<=?50000，-10^9?<=?K?<=?10^9)
+第2?-?N?+?1行：A数组的N个元素。（-10^9?<=?A[i]?<=?10^9)?
+Output
+第1?-?M行：每行2个数，要求较小的数在前面，并且这M个数对按照较小的数升序排列。
+如果不存在任何一组解则输出：No?Solution。
+
+————————————————————————————————————————————————————————————————————————————————
+shortcoming：应使用二分法减少运算时间。（考虑sort函数） 提交后time limit exceeded
+解一：运用冒泡。
+#include <iostream>
+#include <algorithm>
+using namespace std; 
+/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+
+int main(int argc, char** argv) 
+{
+	int j=0,l=0,s=0,n,k,n1;
+	int a[99999];
+	int b[9999][2];
+	while (cin>>k>>n)
+	{
+		n1=n;
+		while(n)
+		{
+			cin>>a[j];
+			j++;
+			n--;
+		}
+	    for(int i=0;i<j;i++)
+	    {
+	    	for(int m=i+1;m<j;m++)
+	    	{
+	    		if(a[i]+a[m]==k)
+	    		{
+	    			b[s][0]=a[i];
+	    			b[s][1]=a[m];
+	    			s++;
+				}
+	    		else
+	    		l++;
+			}
+		}
+	    if(l==((n1-1)*n1)/2)
+		cout<<"No Solution";
+		for(int i=0;i<=s-1;i++)	
+		{
+			if(b[i][0]>b[i][1])
+			{
+				int temp;
+				temp=b[i][0];
+				b[i][0]=b[i][1];
+				b[i][1]=temp;
+			}
+		}
+		for(int v=0;v<s-1;v++)
+		{
+			for(int g=0;g<s-1-v;g++)
+			{
+				if(b[g][0]>b[g+1][0])
+				{
+					int temp1;
+					temp1 =b[g][0];
+					b[g][0]=b[g+1][0];
+					b[g+1][0]=temp1;
+				}
+				if(b[g][1]<b[g+1][1])
+				{
+					int temp1;
+					temp1 =b[g][1];
+					b[g][1]=b[g+1][1];
+					b[g+1][1]=temp1;
+				}
+			}
+			}
+		for(int o=0;o<=s-1;o++)
+		{
+			cout<<b[o][0]<<" "<<b[o][1]<<endl;
+		}
+	}		
+	return 0;
+}
+
+
+
+解二：运用选择筛选法
+
+
+
+#include <iostream>
+#include <algorithm>
+using namespace std; 
+int main(int argc, char** argv) 
+{
+	int j=0,l=0,s=0,n,k,n1;
+	int a[99999];
+	int b[9999][2];
+	while (cin>>k>>n)
+	{
+		n1=n;
+		while(n)
+		{
+			cin>>a[j];
+			j++;
+			n--;
+		}
+	    for(int i=0;i<j;i++)
+	    {
+	    	for(int m=i+1;m<j;m++)
+	    	{
+	    		if(a[i]+a[m]==k)
+	    		{
+	    			b[s][0]=a[i];
+	    			b[s][1]=a[m];
+	    			s++;
+				}
+	    		else
+	    		l++;
+			}
+		}
+	    if(l==((n1-1)*n1)/2)
+		cout<<"No Solution";
+		for(int i=0;i<=s-1;i++)	
+		{
+			if(b[i][0]>b[i][1])
+				swap(b[i][0],b[i][1]);
+		}
+		for(int v=0;v<s-1;v++)
+		{
+			int k=v; 
+			for(int g=v+1;g<s;g++)
+			{
+				if(b[k][0]>b[g][0])
+				k=g;
+			}
+			swap(b[v][0],b[k][0]);
+		}
+		for(int v=0;v<s-1;v++)
+		{
+			int k=v; 
+			for(int g=v+1;g<s;g++)
+			{
+				if(b[k][1]<b[g][1])
+				k=g;
+			}
+			swap(b[k][1],b[v][1]);
+		}
+		for(int o=0;o<=s-1;o++)
+		{
+			cout<<b[o][0]<<" "<<b[o][1]<<endl;
+		}
+	}		
+	return 0;
+}
