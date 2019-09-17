@@ -1,9 +1,0 @@
-{ 
-    "python.pythonPath": "C:\\Users\\九镑十五便士\\AppData\\Local\\Programs\\Python\\Python35\\python.exe",
-    "python.linting.flake8Enabled": true,
-    "python.linting.pylintEnabled": true,
-    "python.linting.pep8Enabled": true,
-    "python.linting.lintOnSave": true,
-    "python.formatting.provider": "yapf",
-    "editor.multiCursorModifier": "ctrlCmd",
-}
