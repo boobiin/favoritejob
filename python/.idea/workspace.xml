@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9f50cf9-5432-4a89-9dde-b1e67b185806" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Test_Icon/Test_Icon/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Icon/Test_Icon/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Icon/Test_Icon/coco_annotation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Icon/Test_Icon/convert.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Icon/Test_Icon/darknet53.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Icon/Test_Icon/kmeans.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Icon/Test_Icon/model_data/coco_classes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Icon/Test_Icon/model_data/coco_classes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Icon/Test_Icon/model_data/voc_classes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Icon/Test_Icon/model_data/voc_classes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Icon/Test_Icon/train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Icon/Test_Icon/train_bottleneck.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Icon/Test_Icon/voc_annotation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Icon/Test_Icon/yolo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Icon/Test_Icon/yolo_video.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Icon/Test_Icon/yolov3-tiny.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Icon/Test_Icon/yolov3.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Icon/Test_Icon/yolov3.cfg" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="data [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="python" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flask_Project/login_project/app/login_demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="77" column="6" selection-start-line="74" selection-end-line="84" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flask_Project/login_project/app/static/css/base.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flask_Project/login_project/app/static/css/register.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Flask_Project/login_project/app/templates/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="81" column="37" lean-forward="true" selection-start-line="81" selection-start-column="37" selection-end-line="81" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flask_Project/login_project/app/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flask_Project/login_project/app/templates/register.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flask_Project/login_project/app/templates/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="21" column="56" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML4 File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Servo_color</find>
+      <find>brand</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\python\python_smartcar\计算机工程实训资料包</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Test_Icon/Test_Icon" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/matplotlib/RandomWalk/random_walk.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Api_use/bar_descriptions.py" />
+        <option value="$PROJECT_DIR$/Api_use/python_repos.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/Data_Forecast/nb-0.81415231.py" />
+        <option value="$PROJECT_DIR$/Data_Forecast/test.py" />
+        <option value="$PROJECT_DIR$/python_smartcar/1.py" />
+        <option value="$PROJECT_DIR$/python_smartcar/new1y.py" />
+        <option value="$PROJECT_DIR$/python_smartcar/计算机工程实训资料包/test.py" />
+        <option value="$PROJECT_DIR$/python_smartcar/test_circle.py" />
+        <option value="$PROJECT_DIR$/python_smartcar/test_circle3.py" />
+        <option value="$PROJECT_DIR$/python_smartcar/test_circle4.py" />
+        <option value="$PROJECT_DIR$/python_smartcar/stop 3.py" />
+        <option value="$PROJECT_DIR$/python_smartcar/test_circle4_replace_new.py" />
+        <option value="$PROJECT_DIR$/Internet_Search(Catch Ant)/scrapetest.py" />
+        <option value="$PROJECT_DIR$/Flask_Project/aSmallApp.py" />
+        <option value="$PROJECT_DIR$/Flask_Project/venv/aSmallApp.py" />
+        <option value="$PROJECT_DIR$/Flask_Project/Chapter2_knowledge.py" />
+        <option value="$PROJECT_DIR$/Flask_Project/app/views.py" />
+        <option value="$PROJECT_DIR$/Flask_Project/venv/app/views.py" />
+        <option value="$PROJECT_DIR$/Flask_Project/venv/app/run.py" />
+        <option value="$PROJECT_DIR$/Flask_Project/venv/app/init.py" />
+        <option value="$PROJECT_DIR$/Flask_Project/hello.py" />
+        <option value="$PROJECT_DIR$/Flask_Project/templates/s.html" />
+        <option value="$PROJECT_DIR$/Flask_Project/templates/user.html" />
+        <option value="$PROJECT_DIR$/Flask_Project/templates/404.html" />
+        <option value="$PROJECT_DIR$/Flask_Project/templates/base.html" />
+        <option value="$PROJECT_DIR$/Flask_Project/Createdb.py" />
+        <option value="$PROJECT_DIR$/Flask_Project/templates/index.html" />
+        <option value="$PROJECT_DIR$/Flask_Project/hello_v1.py" />
+        <option value="$PROJECT_DIR$/Flask_Project/app/templates/index.html" />
+        <option value="$PROJECT_DIR$/Flask_Project/app/hello_v1.py" />
+        <option value="$PROJECT_DIR$/Flask_Project/Example.txt" />
+        <option value="$PROJECT_DIR$/Flask_Project/book_project/app/templates/base.html" />
+        <option value="$PROJECT_DIR$/Flask_Project/venv/Lib/site-packages/flask_sqlalchemy/__init__.py" />
+        <option value="$PROJECT_DIR$/Flask_Project/book_project/app/hello_v1.py" />
+        <option value="$PROJECT_DIR$/Flask_Project/login_project/app/db_demo1.py" />
+        <option value="$PROJECT_DIR$/Flask_Project/login_project/app/config.py" />
+        <option value="$PROJECT_DIR$/Flask_Project/login_project/app/exts.py" />
+        <option value="$PROJECT_DIR$/Flask_Project/login_project/app/moldes.py" />
+        <option value="$PROJECT_DIR$/Flask_Project/login_project/app/static/css/index.css" />
+        <option value="$PROJECT_DIR$/Flask_Project/login_project/app/templates/index.html" />
+        <option value="$PROJECT_DIR$/Flask_Project/login_project/app/static/css/login.css" />
+        <option value="$PROJECT_DIR$/Flask_Project/login_project/app/static/css/register.html" />
+        <option value="$PROJECT_DIR$/Flask_Project/login_project/app/static/css/register.css" />
+        <option value="$PROJECT_DIR$/Flask_Project/login_project/app/templates/register.html" />
+        <option value="$PROJECT_DIR$/Flask_Project/login_project/app/templates/base.html" />
+        <option value="$PROJECT_DIR$/Flask_Project/login_project/app/static/css/base.css" />
+        <option value="$PROJECT_DIR$/Flask_Project/login_project/app/templates/login.html" />
+        <option value="$PROJECT_DIR$/Flask_Project/login_project/app/models.py" />
+        <option value="$PROJECT_DIR$/Flask_Project/login_project/app/login_demo.py" />
+        <option value="$PROJECT_DIR$/Flask_Project/login_project/app/manage.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="123" />
+    <option name="y" value="218" />
+    <option name="width" value="1308" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="Flask_Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="Flask_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="login_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="Flask_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="login_project" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="hive" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Flask_Project" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python\Flask_Project\app" />
+      <recent name="D:\python\Flask_Project\venv" />
+      <recent name="D:\python\Flask_Project" />
+      <recent name="D:\python\python_smartcar" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python\matplotlib\deal_json\All_code" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.db_demo1">
+    <configuration name="db_demo1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flask_Project/login_project/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\python\Flask_Project\login_project\app\login_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flask_Project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\python\Flask_Project\app\hello.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nb-0.81415231" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data_Forecast" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data_Forecast/nb-0.81415231.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scrapetest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Internet_Search(Catch Ant)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Internet_Search(Catch Ant)/scrapetest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.db_demo1" />
+        <item itemvalue="Python.hello" />
+        <item itemvalue="Python.scrapetest" />
+        <item itemvalue="Python.nb-0.81415231" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9f50cf9-5432-4a89-9dde-b1e67b185806" name="Default Changelist" comment="" />
+      <created>1556017490651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556017490651</updated>
+      <workItem from="1556017497628" duration="1061000" />
+      <workItem from="1556018635727" duration="516000" />
+      <workItem from="1556019193373" duration="7487000" />
+      <workItem from="1556070615586" duration="597000" />
+      <workItem from="1556182785622" duration="4679000" />
+      <workItem from="1556541461618" duration="2201000" />
+      <workItem from="1556968839421" duration="795000" />
+      <workItem from="1557229740956" duration="8712000" />
+      <workItem from="1557281040635" duration="12344000" />
+      <workItem from="1557393019522" duration="7320000" />
+      <workItem from="1557561894919" duration="2406000" />
+      <workItem from="1557629306301" duration="2372000" />
+      <workItem from="1558015218914" duration="1741000" />
+      <workItem from="1558447143727" duration="1796000" />
+      <workItem from="1558835179354" duration="6214000" />
+      <workItem from="1561540607631" duration="2164000" />
+      <workItem from="1561556675501" duration="994000" />
+      <workItem from="1562289702037" duration="10110000" />
+      <workItem from="1562330128596" duration="2241000" />
+      <workItem from="1562375269613" duration="3726000" />
+      <workItem from="1562391422728" duration="17075000" />
+      <workItem from="1562559227160" duration="2036000" />
+      <workItem from="1562595520225" duration="44000" />
+      <workItem from="1562595670411" duration="601000" />
+      <workItem from="1563029932361" duration="404000" />
+      <workItem from="1563190026362" duration="2075000" />
+      <workItem from="1564059311085" duration="4677000" />
+      <workItem from="1565314711727" duration="50729000" />
+      <workItem from="1566548716970" duration="4630000" />
+      <workItem from="1566694317746" duration="13545000" />
+      <workItem from="1567060221502" duration="38705000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="213997000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990403" visible="true" weight="0.1816354" />
+      <window_info id="Structure" order="1" sideWeight="0.5009597" side_tool="true" weight="0.22453083" />
+      <window_info id="Favorites" order="2" sideWeight="0.5009597" side_tool="true" weight="0.22453083" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49932975" weight="0.18696883" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.67627347" visible="true" weight="0.21388102" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.32372653" side_tool="true" visible="true" weight="0.21388102" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49731904" weight="0.36685553" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.25920245" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.42426273" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32908848" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python$test.coverage" NAME="test Coverage Results" MODIFIED="1558450794880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$btc_2017.coverage" NAME="btc_2017 Coverage Results" MODIFIED="1557403112864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib/deal_json/All_code" />
+    <SUITE FILE_PATH="coverage/python$dashboard.coverage" NAME="dashboard Coverage Results" MODIFIED="1557402768018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib/deal_json" />
+    <SUITE FILE_PATH="coverage/python$hello.coverage" NAME="hello Coverage Results" MODIFIED="1566737656932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flask_Project" />
+    <SUITE FILE_PATH="coverage/python$load_picture.coverage" NAME="load_picture Coverage Results" MODIFIED="1556543600614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV_Project" />
+    <SUITE FILE_PATH="coverage/python$bar_descriptions.coverage" NAME="bar_descriptions Coverage Results" MODIFIED="1558016443443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Api_use" />
+    <SUITE FILE_PATH="coverage/python$different_dice.coverage" NAME="different_dice Coverage Results" MODIFIED="1556201016910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib/Pygal" />
+    <SUITE FILE_PATH="coverage/python$different_dice2.coverage" NAME="different_dice2 Coverage Results" MODIFIED="1556200631126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib/Pygal" />
+    <SUITE FILE_PATH="coverage/python$btc_close_2017_requests.coverage" NAME="btc_close_2017_requests Coverage Results" MODIFIED="1557284238374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib/deal_json" />
+    <SUITE FILE_PATH="coverage/python$python_repos.coverage" NAME="python_repos Coverage Results" MODIFIED="1558016779502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Api_use" />
+    <SUITE FILE_PATH="coverage/python$die.coverage" NAME="die Coverage Results" MODIFIED="1556020987549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib/Pygal" />
+    <SUITE FILE_PATH="coverage/python$die_visual.coverage" NAME="die_visual Coverage Results" MODIFIED="1556024479461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib/Pygal" />
+    <SUITE FILE_PATH="coverage/python$btc_close_2017.coverage" NAME="btc_close_2017 Coverage Results" MODIFIED="1557239332017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib/deal_json" />
+    <SUITE FILE_PATH="coverage/python$rw_visual.coverage" NAME="rw_visual Coverage Results" MODIFIED="1556019404769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib/RandomWalk" />
+    <SUITE FILE_PATH="coverage/python$nb_0_81415231.coverage" NAME="nb-0.81415231 Coverage Results" MODIFIED="1563195979574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_Forecast" />
+    <SUITE FILE_PATH="coverage/python$scatter_squares.coverage" NAME="scatter_squares Coverage Results" MODIFIED="1556200223906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib/squares" />
+    <SUITE FILE_PATH="coverage/python$highs_lows.coverage" NAME="highs_lows Coverage Results" MODIFIED="1557234766447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib/deal_csv" />
+    <SUITE FILE_PATH="coverage/python$get_data.coverage" NAME="get_data Coverage Results" MODIFIED="1557325573394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib/deal_json" />
+    <SUITE FILE_PATH="coverage/python$db_demo1.coverage" NAME="db_demo1 Coverage Results" MODIFIED="1567308613565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flask_Project/login_project/app" />
+    <SUITE FILE_PATH="coverage/python$scrapetest.coverage" NAME="scrapetest Coverage Results" MODIFIED="1563196009876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Internet_Search(Catch Ant)" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://F:/test_circle4.py" />
+    <entry file="file://$PROJECT_DIR$/python_smartcar/test_circle4.py" />
+    <entry file="file://$PROJECT_DIR$/python_smartcar/test_circle4_replace_new.py" />
+    <entry file="file://$PROJECT_DIR$/python_smartcar/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6125">
+          <caret line="246" column="7" selection-start-line="246" selection-start-column="7" selection-end-line="246" selection-end-column="7" />
+          <folding>
+            <element signature="e#23#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_smartcar/stop 3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6925">
+          <caret line="278" column="40" selection-start-line="278" selection-start-column="40" selection-end-line="278" selection-end-column="40" />
+          <folding>
+            <element signature="e#23#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zjut-code/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#47#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_smartcar/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8050">
+          <caret line="323" column="30" selection-start-line="323" selection-start-column="30" selection-end-line="323" selection-end-column="30" />
+          <folding>
+            <element signature="e#23#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_smartcar/infrared_avoid.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_smartcar/test_circle4_replace.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-375" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/urllib/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="139" column="4" selection-start-line="139" selection-start-column="4" selection-end-line="139" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask_Project/venv/aSmallApp.py" />
+    <entry file="file://$PROJECT_DIR$/Internet_Search(Catch Ant)/scrapetest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask_Project/app/views.py" />
+    <entry file="file://$PROJECT_DIR$/Flask_Project/app/Chapter2_knowledge.py" />
+    <entry file="file://$PROJECT_DIR$/Flask_Project/venv/run.py" />
+    <entry file="file://$PROJECT_DIR$/Flask_Project/venv/app/views.py" />
+    <entry file="file://$PROJECT_DIR$/Flask_Project/venv/app/init.py" />
+    <entry file="file://$PROJECT_DIR$/Flask_Project/templates/s.html" />
+    <entry file="file://$PROJECT_DIR$/Flask_Project/app/templates/404.html" />
+    <entry file="file://$PROJECT_DIR$/Flask_Project/app/hello.py" />
+    <entry file="file://$PROJECT_DIR$/Flask_Project/app/templates/user.html" />
+    <entry file="file://$PROJECT_DIR$/Flask_Project/app/templates/base.html" />
+    <entry file="file://$PROJECT_DIR$/Flask_Project/migrations/env.py" />
+    <entry file="file://$PROJECT_DIR$/Flask_Project/migrations/README" />
+    <entry file="file://$PROJECT_DIR$/Flask_Project/app/Createdb.py" />
+    <entry file="file://$PROJECT_DIR$/Flask_Project/app/templates/index.html" />
+    <entry file="file://$PROJECT_DIR$/Flask_Project/app/hello_v1.py" />
+    <entry file="file://$PROJECT_DIR$/Flask_Project/book_project/app/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask_Project/book_project/app/templates/user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask_Project/book_project/app/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask_Project/venv/Lib/site-packages/sqlalchemy/dialects/mysql/mysqldb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask_Project/venv/Lib/site-packages/flask_sqlalchemy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#24#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask_Project/book_project/app/Createdb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask_Project/Example.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask_Project/book_project/app/hello_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2543">
+          <caret line="166" column="14" selection-start-line="166" selection-start-column="14" selection-end-line="166" selection-end-column="14" />
+          <folding>
+            <element signature="e#7#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask_Project/login_project/Notes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-753" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask_Project/login_project/app/exts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask_Project/login_project/app/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask_Project/login_project/app/static/css/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask_Project/login_project/app/static/css/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask_Project/login_project/app/static/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask_Project/login_project/app/static/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask_Project/login_project/app/static/css/register.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask_Project/login_project/app/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="21" column="56" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask_Project/login_project/app/templates/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask_Project/login_project/app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="11" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask_Project/login_project/app/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask_Project/login_project/app/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask_Project/login_project/app/login_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="77" column="6" selection-start-line="74" selection-end-line="84" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask_Project/login_project/app/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask_Project/login_project/app/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="81" column="37" lean-forward="true" selection-start-line="81" selection-start-column="37" selection-end-line="81" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

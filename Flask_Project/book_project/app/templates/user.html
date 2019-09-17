@@ -1,0 +1,43 @@
+<!--
+
+Flask-Bootstrap中导入bootstrap/base.html,从而实现模板继承
+基模板提供一个网页骨架，引入了Bootstrap的所有CSS和JavaScript文件
+user.html文件定义了三个区块 title、navbar、content
+title内容出现在渲染后的HTML文档头部
+navbar区块定义导航栏，content定义主体内容
+-->
+
+{% extends "bootstrap/base.html" %}
+
+{% block title %}Flasky{% endblock %}
+
+{% block navbar %}
+<div class="navbar navbar-inverse" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle"
+            data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">Flasky</a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li><a href="/">Home</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block content %}
+<div class="container">
+    <div class ="page-header">
+        <h1>hello,{{name}}!</h1>
+    </div>
+</div>
+{% endblock %}
+
